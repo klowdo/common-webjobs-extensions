@@ -58,8 +58,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Collector.Common.Azure.Webjobs.Extentisions\Collector.Common.Azure.Webjobs.Extensions.csproj">
-      <Project>{FBF08D00-DEC3-497C-9F67-8A61C481B9E4}</Project>
+    <ProjectReference Include="..\Collector.Common.Azure.Webjobs.Extensions\Collector.Common.Azure.Webjobs.Extensions.csproj">
+      <Project>{fbf08d00-dec3-497c-9f67-8a61c481b9e4}</Project>
       <Name>Collector.Common.Azure.Webjobs.Extensions</Name>
     </ProjectReference>
   </ItemGroup>
